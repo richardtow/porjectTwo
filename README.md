@@ -26,3 +26,8 @@ To push individual file to github
 - git commit -m "add more to README.md"
 - git push origin master
 
+--------------------------------------
+To push dir to github
+
+- It is similar to push individual file
+
