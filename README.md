@@ -31,3 +31,13 @@ To push dir to github
 
 - It is similar to push individual file
 
+--------------------------------------
+To delete a repository
+
+- Manually enter the URL for your repository's Settings page in your browser:
+  Ex: https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/settings  
+- Under Danger Zone, click Delete this repository.
+- Read the warnings.
+- Deletion labelingTo verify that you're deleting the correct repository, type the name of the repository you want to delete.
+- Click I understand the consequences, delete this repository.
+
