@@ -3,7 +3,7 @@ follow the steps below:
 
 …or create a new repository on the command line
 
-echo "# porjectTwo" >> README.md
+echo "# porjectTwo" >> README.me
 git init
 git add README.md
 git commit -m "first commit"
