@@ -19,4 +19,10 @@ To pull the chagnes from github to local project
 - git pull origin master
 
 --------------------------------------
+To push individual file to github
+
+- vi README.md
+- git add README.md
+- git commit -m "add more to README.md"
+- git push origin master
 
