@@ -1,16 +1,22 @@
-Create an empty project from GitHub, here empty means empty, not even a README.md file, then 
-follow the steps below:
 
+To push the local project to github 
+
+1. Create an empty project from GitHub, here empty means empty, not even a README.md file, then follow the steps below:
+
+2. From the local project
 …or create a new repository on the command line
 
-echo "# porjectTwo" >> README.me
+- echo "# porjectTwo" >> README.me
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git remote add origin https://github.com/richardtow/porjectTwo.git
+- git push -u origin master
 
-git init
+---------------------------------------
+To pull the chagnes from github to local project
 
-git add README.md
+- git pull origin master
 
-git commit -m "first commit"
+--------------------------------------
 
-git remote add origin https://github.com/richardtow/porjectTwo.git
-
-git push -u origin master
